@@ -1,7 +1,7 @@
 body  {
 
     color: white;
-    background-color: black;
+    background-color: rgb(36, 62, 97);
     margin: 0px;
     
 }
@@ -9,7 +9,7 @@ header {
     border-bottom: solid 2px rgb(42, 122, 228);
     padding: 20px;
     font-size: 32px;
-    color: rgb(42, 122, 228);
+    color: rgb(4, 8, 14);
 }
 
 section {
